@@ -42,58 +42,36 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Echo
-**Native Twitch Chat Client**
-
-```
-┌─────────────────────────────┐
-│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%  │
-│ Performance: S-RANK         │
-│ Framework: GPUI (Zed)       │
-│ Language: Rust              │
-└─────────────────────────────┘
-```
-
-<sub>
-
-**✦ Canvas-based renderer** — sub-ms paint times
-**✦ 60+ FPS** with 100+ animated emotes
-**✦ Multi-message selection** (Chatterino-style)
-**✦ 7TV/BTTV/FFZ** emote integration
-**✦ Split-pane layouts** with drag & drop
-
-</sub>
-
-[![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![GPUI](https://img.shields.io/badge/GPUI-084CCF?style=flat-square&logo=zed-industries&logoColor=white)](https://zed.dev/)
+<h3>🎮 Echo</h3>
+<b>Native Twitch Chat Client</b>
+<br><br>
+<code>Performance: S-RANK</code> · <code>Framework: GPUI</code> · <code>Lang: Rust</code>
+<br><br>
+✦ <b>Canvas-based renderer</b> — sub-ms paint times<br>
+✦ <b>60+ FPS</b> with 100+ animated emotes<br>
+✦ <b>Multi-message selection</b> (Chatterino-style)<br>
+✦ <b>7TV/BTTV/FFZ</b> emote integration<br>
+✦ <b>Split-pane layouts</b> with drag & drop
+<br><br>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></a>
+<a href="https://zed.dev/"><img src="https://img.shields.io/badge/GPUI-084CCF?style=flat-square&logo=zed-industries&logoColor=white" alt="GPUI"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌙 Luna
-**AI-Powered Twitch Bot**
-
-```
-┌─────────────────────────────┐
-│ Intelligence: Gemini 3      │
-│ Memory: Semantic RAG        │
-│ Uptime: 99.9%               │
-│ Channels: Multi-tenant      │
-└─────────────────────────────┘
-```
-
-<sub>
-
-**✦ Multi-provider AI** — Gemini, Claude, OpenAI
-**✦ Semantic memory** — Qdrant vector search
-**✦ Real-time 7TV** emote learning
-**✦ 50+ commands** — moderation to FFXIV
-**✦ PostgreSQL + Redis** architecture
-
-</sub>
-
-[![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org/)
+<h3>🌙 Luna</h3>
+<b>AI-Powered Twitch Bot</b>
+<br><br>
+<code>AI: Gemini 3</code> · <code>Memory: RAG</code> · <code>Uptime: 99.9%</code>
+<br><br>
+✦ <b>Multi-provider AI</b> — Gemini, Claude, OpenAI<br>
+✦ <b>Semantic memory</b> — Qdrant vector search<br>
+✦ <b>Real-time 7TV</b> emote learning<br>
+✦ <b>50+ commands</b> — moderation to FFXIV<br>
+✦ <b>PostgreSQL + Redis</b> architecture
+<br><br>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></a>
+<a href="https://postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 
 </td>
 </tr>
