@@ -117,14 +117,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Revulate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revulate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Revulate&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD)](https://git.io/streak-stats)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ┌─ LANGUAGES ──────────────────────────────────────────┐    ║
+║   │                                                      │    ║
+║   │  Rust         ████████████████████████████████  95%  │    ║
+║   │  TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░   3%  │    ║
+║   │  Python       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%  │    ║
+║   │                                                      │    ║
+║   └──────────────────────────────────────────────────────┘    ║
+║                                                               ║
+║   ┌─ FOCUS AREAS ────────────────────────────────────────┐    ║
+║   │                                                      │    ║
+║   │  ◆ Native Desktop Apps    ◆ Real-time Systems        │    ║
+║   │  ◆ AI/LLM Integration     ◆ Twitch Ecosystem         │    ║
+║   │  ◆ High-Performance UIs   ◆ Linux Gaming             │    ║
+║   │                                                      │    ║
+║   └──────────────────────────────────────────────────────┘    ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
