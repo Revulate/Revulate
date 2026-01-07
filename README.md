@@ -72,20 +72,16 @@
 <div align="center">
 
 ```
-+------------------------------------------------------------------+
-|                                                                  |
-|  LANGUAGES                                                       |
-|  ========================================------------  Rust  95%  |
-|  ============----------------------------  TypeScript         3%  |
-|  ====------------------------------------ Python              2%  |
-|                                                                  |
-|  FRAMEWORKS & TOOLS                                              |
-|  GPUI - Tokio - Axum - SvelteKit - PostgreSQL - Redis            |
-|                                                                  |
-|  PLATFORMS                                                       |
-|  CachyOS KDE - Windows 11 - Oracle Cloud ARM64                   |
-|                                                                  |
-+------------------------------------------------------------------+
+LANGUAGES
+====================================---------  Rust        95%
+==========---------------------------  TypeScript   3%
+===------------------------------  Python       2%
+
+FRAMEWORKS & TOOLS
+GPUI  Tokio  Axum  SvelteKit  PostgreSQL  Redis
+
+PLATFORMS
+CachyOS KDE  -  Windows 11  -  Oracle Cloud ARM64
 ```
 
 </div>
@@ -106,19 +102,15 @@
 <div align="center">
 
 ```
-+---------------------------------------------------------------+
-|                                                               |
-|  LANGUAGES                                                    |
-|  ============================================  Rust       95% |
-|  ========------------------------------------  TypeScript  3% |
-|  ==------------------------------------------  Python      2% |
-|                                                               |
-|  FOCUS AREAS                                                  |
-|  * Native Desktop Apps      * Real-time Systems               |
-|  * AI/LLM Integration       * Twitch Ecosystem                |
-|  * High-Performance UIs     * Linux Gaming                    |
-|                                                               |
-+---------------------------------------------------------------+
+LANGUAGES
+==========================================  Rust        95%
+========----------------------------------  TypeScript   3%
+==----------------------------------------  Python       2%
+
+FOCUS AREAS
+* Native Desktop Apps      * Real-time Systems
+* AI/LLM Integration       * Twitch Ecosystem
+* High-Performance UIs     * Linux Gaming
 ```
 
 </div>
