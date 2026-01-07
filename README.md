@@ -162,7 +162,7 @@
 │   🎯 CURRENT INTERESTS                                         │
 │   ────────────────────                                         │
 │                                                                │
-│   ⛩️  FFXIV           │ Endwalker enjoyer, Dawntrail ready     │
+│   ⛩️  FFXIV           │ On break from Dawntrail                │
 │   🎮  JRPGs           │ Turn-based combat enthusiast           │
 │   🖼️  Pixel Art       │ Retro aesthetics appreciator           │
 │   📺  Anime           │ Seasonal watcher                       │
