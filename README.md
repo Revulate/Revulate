@@ -1,20 +1,8 @@
-<!-- Pixel art inspired header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ███████╗██╗   ██╗██╗   ██╗██╗      █████╗ ████████╗███████╗        ║
-║   ██╔══██╗██╔════╝██║   ██║██║   ██║██║     ██╔══██╗╚══██╔══╝██╔════╝        ║
-║   ██████╔╝█████╗  ██║   ██║██║   ██║██║     ███████║   ██║   █████╗          ║
-║   ██╔══██╗██╔══╝  ╚██╗ ██╔╝██║   ██║██║     ██╔══██║   ██║   ██╔══╝          ║
-║   ██║  ██║███████╗ ╚████╔╝ ╚██████╔╝███████╗██║  ██║   ██║   ███████╗        ║
-║   ╚═╝  ╚═╝╚══════╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝        ║
-║                                                                              ║
-║                    ⚔️  Rust Developer • Twitch Enthusiast  ⚔️                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# REVULATE
+
+**⚔️ Rust Developer • Twitch Enthusiast ⚔️**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%3E+Building+high-performance+native+applications;%3E+Crafting+AI-powered+experiences" alt="Typing SVG" />
 
@@ -84,20 +72,20 @@
 <div align="center">
 
 ```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   [LANGUAGES]                                                │
-│   ████████████████████████████████░░░░  Rust       ████████  │
-│   ████████████████████░░░░░░░░░░░░░░░░  TypeScript ██████    │
-│   ██████████████░░░░░░░░░░░░░░░░░░░░░░  Python     ████      │
-│                                                              │
-│   [FRAMEWORKS & TOOLS]                                       │
-│   GPUI • Tokio • Axum • SvelteKit • PostgreSQL • Redis       │
-│                                                              │
-│   [PLATFORMS]                                                │
-│   🐧 CachyOS KDE • 🪟 Windows 11 • ☁️ Oracle Cloud ARM64      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
++------------------------------------------------------------------+
+|                                                                  |
+|  LANGUAGES                                                       |
+|  ========================================------------  Rust  95%  |
+|  ============----------------------------  TypeScript         3%  |
+|  ====------------------------------------ Python              2%  |
+|                                                                  |
+|  FRAMEWORKS & TOOLS                                              |
+|  GPUI - Tokio - Axum - SvelteKit - PostgreSQL - Redis            |
+|                                                                  |
+|  PLATFORMS                                                       |
+|  CachyOS KDE - Windows 11 - Oracle Cloud ARM64                   |
+|                                                                  |
++------------------------------------------------------------------+
 ```
 
 </div>
@@ -118,25 +106,19 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ┌─ LANGUAGES ──────────────────────────────────────────┐    ║
-║   │                                                      │    ║
-║   │  Rust         ████████████████████████████████  95%  │    ║
-║   │  TypeScript   ████████░░░░░░░░░░░░░░░░░░░░░░░░   3%  │    ║
-║   │  Python       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%  │    ║
-║   │                                                      │    ║
-║   └──────────────────────────────────────────────────────┘    ║
-║                                                               ║
-║   ┌─ FOCUS AREAS ────────────────────────────────────────┐    ║
-║   │                                                      │    ║
-║   │  ◆ Native Desktop Apps    ◆ Real-time Systems        │    ║
-║   │  ◆ AI/LLM Integration     ◆ Twitch Ecosystem         │    ║
-║   │  ◆ High-Performance UIs   ◆ Linux Gaming             │    ║
-║   │                                                      │    ║
-║   └──────────────────────────────────────────────────────┘    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++---------------------------------------------------------------+
+|                                                               |
+|  LANGUAGES                                                    |
+|  ============================================  Rust       95% |
+|  ========------------------------------------  TypeScript  3% |
+|  ==------------------------------------------  Python      2% |
+|                                                               |
+|  FOCUS AREAS                                                  |
+|  * Native Desktop Apps      * Real-time Systems               |
+|  * AI/LLM Integration       * Twitch Ecosystem                |
+|  * High-Performance UIs     * Linux Gaming                    |
+|                                                               |
++---------------------------------------------------------------+
 ```
 
 </div>
@@ -147,21 +129,14 @@
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   🎯 CURRENT INTERESTS                                         │
-│   ────────────────────                                         │
-│                                                                │
-│   ⛩️  FFXIV           │ On break from Dawntrail                │
-│   🎮  JRPGs           │ Turn-based combat enthusiast           │
-│   🖼️  Pixel Art       │ Retro aesthetics appreciator           │
-│   📺  Anime           │ Seasonal watcher                       │
-│   💬  Twitch          │ Chat experience optimizer              │
-│   🐧  Linux Gaming    │ CachyOS KDE + Proton enjoyer           │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| ⛩️ **FFXIV** | On break from Dawntrail |
+| 🎮 **JRPGs** | Turn-based combat enthusiast |
+| 🖼️ **Pixel Art** | Retro aesthetics appreciator |
+| 📺 **Anime** | Seasonal watcher |
+| 💬 **Twitch** | Chat experience optimizer |
+| 🐧 **Linux Gaming** | CachyOS KDE + Proton enjoyer |
 
 </div>
 
@@ -172,10 +147,10 @@
 ### `// EOF`
 
 ```
- ___________
-< Thanks for >
-< visiting!  >
- -----------
+ _____________
+< Thanks for  >
+< visiting!   >
+ -------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
